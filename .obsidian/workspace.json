@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2fa72f3b0351be89",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f5eab27dac0052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3dfbafefed3de8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "0027126b8bc64c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72167f6ac33104f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ace56bd3553a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80621a8479a8001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24df70349e20681c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9650031ef065e84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a6a565fd41b78b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2765ce3f1f1acce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683b68385b518a2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk"
+            }
+          },
+          {
+            "id": "f52c3dc8549472e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk"
+            }
+          },
+          {
+            "id": "682dfa35fcd34c0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4cb72a4143a097e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0027126b8bc64c30",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk.md",
+    "images"
+  ]
+}
