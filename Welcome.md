@@ -1,10 +1,12 @@
-This archive is a KB for multiple challenges that we pass by and we use it to teach future engineers to understand how these were solved.
+This archive serves as a knowledge base (KB) for various challenges we've encountered. We use it as a learning tool to help future engineers understand how these issues were addressed.
 
-They don´t represent the *best solution*, but instead, the solution that was selected given the conditions that we were facing.
+The solutions documented here are not necessarily the best possible ones, but rather the ones chosen based on the specific constraints and circumstances at the time.
 
-We hope this can be of use for everybody that seeks ideas on similar topics.
-Since we are currently starting this KB, the organization of the same is still a bit clumsy; we apologize for this.
+We hope this resource proves useful to anyone exploring similar problems or seeking inspiration.
+
+Please note that this KB is still in its early stages, so its structure and organization may be a bit rough. We appreciate your understanding as we continue to improve it.
 
 ## Index
-- [Protect a Windows Server with the Microsoft RAID-1 solution on the boot disk](./win-raid-1-boot.md)
+- [Using Microsoft RAID 1 to Mirror the Windows Server Boot Drive](Using%20Microsoft%20RAID%201%20to%20Mirror%20the%20Windows%20Server%20Boot%20Drive.md)
+- 
 - 
