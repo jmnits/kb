@@ -7,6 +7,6 @@ We hope this resource proves useful to anyone exploring similar problems or seek
 Please note that this KB is still in its early stages, so its structure and organization may be a bit rough. We appreciate your understanding as we continue to improve it.
 
 ## Index
-- [Using Microsoft RAID 1 to Mirror the Windows Server Boot Drive](Using%20Microsoft%20RAID%201%20to%20Mirror%20the%20Windows%20Server%20Boot%20Drive.md)
-- 
+- [[Using Microsoft RAID 1 to Mirror the Windows Server Boot Drive]]
+- [[Re-order partitions in a Windows Server System]]
 - 

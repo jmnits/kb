@@ -59,11 +59,12 @@ In order to do this, we need to delete the *Recovery*, *PAGEFILE* and *CACHE* pa
 
 The following approach and remarks apply to these partitions:
 
-| Partition  | Considerations                                                                                                                                                  | Actions                                                                                                       |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| *Recovery* | Can contain recovery data that should be preserved upon re-creation.<br>This is a special partition, meaning that its GUID and attributes should be replicated. | Backup the partition using the `dism` utility.<br>The image can be stored on C: (< 1 GB)                      |
-| *PAGEFILE* | The pagefile must be removed from this drive before deleting the the partition.                                                                                 | Remove the pagefile from the partition. No other special actions are required.                                |
-| *CACHE*    | No applications should be using this partition. <br>The partition should be backup to be later restored.                                                        | Boot the server in `safemode` so all applications are stopped.<br>Use the `dism` utility to backup the drive. |
+| Partition  | Considerations                                      |
+| ---------- | --------------------------------------------------- |
+| *Recovery* | Contains server recovery data                       |
+| *PAGEFILE* | The pagefile must be relocated to another partition |
+| *CACHE*    | Applications might be using the current disk        |
+In order to see how to re-order the partitions, please consult [[Re-order partitions in a Windows Server System]]
 
 
 ### Prepare Secondary Boot Disk
